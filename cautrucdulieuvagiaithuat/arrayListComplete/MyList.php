@@ -18,7 +18,7 @@ class MyList
         array_push($this->arrayList, $obj);
     }
 
-    public function addOnIndex($obj, $index)
+    public function addIndex($obj, $index)
     {
         array_splice($this->arrayList,$index,0, $obj);
     }
@@ -59,10 +59,6 @@ class MyList
         return $index;
     }
 
-
-    public function ensureCapacity($minCapacity)
-    {
-    }
 
     public function get($index)
     {

@@ -9,6 +9,8 @@
       <change beforePath="$PROJECT_DIR$/advancedobjectorienteddesign/interface-Resizeable/php-shape/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/advancedobjectorienteddesign/interface-Resizeable/php-shape/Rectangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/advancedobjectorienteddesign/interface-Resizeable/php-shape/Rectangle.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/advancedobjectorienteddesign/interface-Resizeable/php-shape/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cautrucdulieuvagiaithuat/MyLinkedList/myLinkedList.php" beforeDir="false" afterPath="$PROJECT_DIR$/cautrucdulieuvagiaithuat/MyLinkedList/myLinkedList.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cautrucdulieuvagiaithuat/arrayListComplete/MyList.php" beforeDir="false" afterPath="$PROJECT_DIR$/cautrucdulieuvagiaithuat/arrayListComplete/MyList.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,20 +20,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cautrucdulieuvagiaithuat/arrayListComplete/MyList.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-238">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="-34">
+              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cautrucdulieuvagiaithuat/MyLinkedList/myLinkedList.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="-2595">
+              <caret line="46" column="16" lean-forward="true" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cautrucdulieuvagiaithuat/nhap.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="200" column="28" lean-forward="true" selection-start-line="200" selection-start-column="28" selection-end-line="200" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -39,7 +50,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cautrucdulieuvagiaithuat/LinkeList/LinkList.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="680">
               <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
             </state>
           </provider>
@@ -88,16 +99,16 @@
         <option value="$PROJECT_DIR$/cautrucdulieuvagiaithuat/LinkeList/LinkList.php" />
         <option value="$PROJECT_DIR$/cautrucdulieuvagiaithuat/arrayListComplete/myListTest.php" />
         <option value="$PROJECT_DIR$/cautrucdulieuvagiaithuat/arrayList/ArrayList.php" />
-        <option value="$PROJECT_DIR$/cautrucdulieuvagiaithuat/arrayListComplete/MyList.php" />
-        <option value="$PROJECT_DIR$/cautrucdulieuvagiaithuat/nhap.html" />
-        <option value="$PROJECT_DIR$/cautrucdulieuvagiaithuat/nhap.php" />
         <option value="$PROJECT_DIR$/cautrucdulieuvagiaithuat/LinkeList/MyLinkedListTest.php" />
         <option value="$PROJECT_DIR$/cautrucdulieuvagiaithuat/MyLinkedList/MyLinkedListTest.php" />
+        <option value="$PROJECT_DIR$/cautrucdulieuvagiaithuat/nhap.html" />
+        <option value="$PROJECT_DIR$/cautrucdulieuvagiaithuat/nhap.php" />
         <option value="$PROJECT_DIR$/cautrucdulieuvagiaithuat/MyLinkedList/myLinkedList.php" />
+        <option value="$PROJECT_DIR$/cautrucdulieuvagiaithuat/arrayListComplete/MyList.php" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="538" />
     <option name="y" value="2" />
     <option name="width" value="838" />
@@ -111,6 +122,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,7 +163,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,18 +209,19 @@
       <workItem from="1555464971759" duration="598000" />
       <workItem from="1555466688354" duration="10093000" />
       <workItem from="1555529054906" duration="3020000" />
-      <workItem from="1555549655588" duration="7616000" />
+      <workItem from="1555549655588" duration="9731000" />
+      <workItem from="1555594078977" duration="2627000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26178000" />
+    <option name="totallyTimeSpent" value="30920000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="538" y="2" width="838" height="731" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13918306" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2403599" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -384,36 +396,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cautrucdulieuvagiaithuat/arrayListComplete/MyList.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-238">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cautrucdulieuvagiaithuat/LinkeList/Node.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cautrucdulieuvagiaithuat/nhap.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cautrucdulieuvagiaithuat/nhap.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cautrucdulieuvagiaithuat/LinkeList/MyLinkedListTest.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/cautrucdulieuvagiaithuat/LinkeList/MyLinkedListTest.php" />
+    <entry file="file://$PROJECT_DIR$/cautrucdulieuvagiaithuat/nhap.html" />
     <entry file="file://$PROJECT_DIR$/cautrucdulieuvagiaithuat/LinkeList/LinkList.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="680">
           <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
         </state>
       </provider>
@@ -425,10 +412,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/cautrucdulieuvagiaithuat/LinkeList/Node.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cautrucdulieuvagiaithuat/nhap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="200" column="28" lean-forward="true" selection-start-line="200" selection-start-column="28" selection-end-line="200" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cautrucdulieuvagiaithuat/MyLinkedList/myLinkedList.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="-2595">
+          <caret line="46" column="16" lean-forward="true" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cautrucdulieuvagiaithuat/arrayListComplete/MyList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
         </state>
       </provider>
     </entry>

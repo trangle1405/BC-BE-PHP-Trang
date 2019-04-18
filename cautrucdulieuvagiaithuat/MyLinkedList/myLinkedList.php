@@ -40,6 +40,24 @@ class MyLinkedList
         }
     }
 
+    function insertByIndex($index, $data)
+    {
+        if ($index == 0) {
+            $this->insertFirst($data);
+        } else {
+            $link = new Node($data);
+            $previous = $this->firstNode;
+            $current = $this->firstNode->next;
+            for ($i = 1; $i < $index; $i++) {
+                $previous = $current;
+                $current = $current->next;
+            }
+            $previous->next = $link;
+            $link->next = $current;
+            $this->numNode++;
+        }
+    }
+
     public function totalNodes()
     {
         return $this->count;
@@ -54,9 +72,57 @@ class MyLinkedList
             array_push($listData, $current->readNode());
             $current = $current->next;
         }
-        foreach ($listData as $v) {
-            echo $v . " ";
+        return $listData;
+    }
+
+    public function cloneList()
+    {
+        $cloneList = $this->readList();
+        return $cloneList;
+    }
+
+    public function contains($data)
+    {
+        $current = $this->firstNode;
+        $flag = null;
+        while ($current != NULL) {
+            if ($current->data == $data) {
+                $flag = 'true';
+                break;
+            } else {
+                $current = $current->next;
+                $flag = 'false';
+            }
         }
+        return $flag;
+    }
+
+
+    public function indexOf($data)
+    {
+        $current = $this->firstNode;
+        $flag = null;
+        $index = 0;
+        while ($current != NULL) {
+            if ($current->data == $data) {
+                $flag = 'true';
+                break;
+            } else {
+                $current = $current->next;
+                $flag = 'false';
+                $index++;
+            }
+        }
+        if ($flag == 'true') {
+            return $index;
+        } else {
+            return $flag;
+        }
+    }
+
+    public function clear()
+    {
+        $this->firstNode = NULL;
     }
 
     public function deleteNode($key)
@@ -118,5 +184,43 @@ class MyLinkedList
         $this->count--;
     }
 
+    public function reverse()
+    {
+        if ($this->head != NULL) {
+            if ($this->head->next != NULL) {
+                $current = $this->head;
+                $new = NULL;
+                while ($current != NULL) {
+                    $temp = $current->next;
+                    $current->next = $new;
+                    $new = $current;
+                    $current = $temp;
+                }
+                $this->head = $new;
+            }
+        }
+    }
 
+    public function getFirst()
+    {
+        return $this->firstNode->data;
+    }
+
+    public function getLast()
+    {
+        return $this->lastNode->data;
+    }
+
+    public function getIndex($index)
+    {
+        if ($index == 0) {
+            return $this->getFirst();
+        } else {
+            $current = $this->firstNode;
+            for ($i = 0; $i < $index; $i++) {
+                $current = $current->next;
+            }
+            return $current->data;
+        }
+    }
 }
