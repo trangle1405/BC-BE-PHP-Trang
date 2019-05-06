@@ -2,18 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f6db7ac-638d-40f5-a823-97aaf6325378" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clean Code And Refactoring/php-cleancode-refactoring-exercise" beforeDir="false" afterPath="$PROJECT_DIR$/Clean Code And Refactoring/php-cleancode-refactoring-exercise" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Clean Code And Refactoring/php-cleancode-refactoring-exercise/TennisGame.php" beforeDir="false" afterPath="$PROJECT_DIR$/Clean Code And Refactoring/php-cleancode-refactoring-exercise/TennisGame.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Clean Code And Refactoring/php-cleancode-refactoring-exercise/TennisGameMain.php" beforeDir="false" afterPath="$PROJECT_DIR$/Clean Code And Refactoring/php-cleancode-refactoring-exercise/TennisGameMain.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clean Code And Refactoring/php-cleancode-refactoring-method-extraction" beforeDir="false" afterPath="$PROJECT_DIR$/Clean Code And Refactoring/php-cleancode-refactoring-method-extraction" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Clean Code And Refactoring/php-cleancode-refactoring-method-extraction/src/Cylinder.php" beforeDir="false" afterPath="$PROJECT_DIR$/Clean Code And Refactoring/php-cleancode-refactoring-method-extraction/src/Cylinder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clean Code And Refactoring/php-cleancode-refactoring-renaming" beforeDir="false" afterPath="$PROJECT_DIR$/Clean Code And Refactoring/php-cleancode-refactoring-renaming" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Clean Code And Refactoring/php-cleancode-refactoring-renaming/src/Calculator.php" beforeDir="false" afterPath="$PROJECT_DIR$/Clean Code And Refactoring/php-cleancode-refactoring-renaming/src/Calculator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clean Code And Refactoring/php-cleancode-refactoring-variable-extraction" beforeDir="false" afterPath="$PROJECT_DIR$/Clean Code And Refactoring/php-cleancode-refactoring-variable-extraction" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Clean Code And Refactoring/php-cleancode-refactoring-variable-extraction/FizzBuzz.php" beforeDir="false" afterPath="$PROJECT_DIR$/Clean Code And Refactoring/php-cleancode-refactoring-variable-extraction/FizzBuzz.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Clean Code And Refactoring/php-cleancode-refactoring-variable-extraction/FizzBuzzTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Clean Code And Refactoring/php-cleancode-refactoring-variable-extraction/FizzBuzzTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advancedobjectorienteddesign/interface-Colorable/php-shape" beforeDir="false" afterPath="$PROJECT_DIR$/advancedobjectorienteddesign/interface-Colorable/php-shape" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/advancedobjectorienteddesign/interface-Colorable/php-shape/Rectangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/advancedobjectorienteddesign/interface-Colorable/php-shape/Rectangle.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/advancedobjectorienteddesign/interface-Colorable/php-shape/Square.php" beforeDir="false" afterPath="$PROJECT_DIR$/advancedobjectorienteddesign/interface-Colorable/php-shape/Square.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/advancedobjectorienteddesign/interface-Colorable/php-shape/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/advancedobjectorienteddesign/interface-Colorable/php-shape/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advancedobjectorienteddesign/interface-Resizeable/Resizeable.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/advancedobjectorienteddesign/interface-Resizeable/php-shape" beforeDir="false" afterPath="$PROJECT_DIR$/advancedobjectorienteddesign/interface-Resizeable/php-shape" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/advancedobjectorienteddesign/interface-Resizeable/php-shape/Circle.php" beforeDir="false" afterPath="$PROJECT_DIR$/advancedobjectorienteddesign/interface-Resizeable/php-shape/Circle.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/advancedobjectorienteddesign/interface-Resizeable/php-shape/Cylinder.php" beforeDir="false" />
@@ -39,13 +42,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Clean Code And Refactoring/php-cleancode-refactoring-exercise/TennisGame.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="50" column="22" lean-forward="true" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+            <state relative-caret-position="969">
+              <caret line="57" column="29" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nhap.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../php-management-customer-mvc/index.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../php-management-customer-mvc/view/list.php">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -58,7 +80,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Clean Code And Refactoring/php-cleancode-refactoring-exercise" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -96,13 +118,15 @@
         <option value="$PROJECT_DIR$/Clean Code And Refactoring/php-cleancode-refactoring-method-extraction/src/Cylinder.php" />
         <option value="$PROJECT_DIR$/Clean Code And Refactoring/php-cleancode-refactoring-exercise/TennisGameMain.php" />
         <option value="$PROJECT_DIR$/Clean Code And Refactoring/php-cleancode-refactoring-exercise/TennisGame.php" />
+        <option value="$PROJECT_DIR$/nhap.php" />
+        <option value="$PROJECT_DIR$/nhap.sql" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="538" />
+    <option name="x" value="776" />
     <option name="y" value="2" />
-    <option name="width" value="838" />
+    <option name="width" value="600" />
     <option name="height" value="731" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -142,7 +166,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="G:/hoc_lap_trinh_BP/CV_HTML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../php-management-customer-mvc" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -194,16 +218,20 @@
       <workItem from="1555638152576" duration="8824000" />
       <workItem from="1555859876335" duration="755000" />
       <workItem from="1555895237898" duration="81000" />
+      <workItem from="1556081087960" duration="599000" />
+      <workItem from="1556119812913" duration="2432000" />
+      <workItem from="1556154582279" duration="1754000" />
+      <workItem from="1556769425247" duration="793000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43791000" />
+    <option name="totallyTimeSpent" value="49369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17927383" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2397882" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -228,34 +256,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/advancedobjectorienteddesign/animalAndInterfaceEditble/AbstractClass/Fruit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/advancedobjectorienteddesign/interface-Comparator/Comparable.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/advancedobjectorienteddesign/interface-Comparator/ComparableCircle.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/advancedobjectorienteddesign/interface-Resizeable/php-shape/Shape.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/advancedobjectorienteddesign/interface-Comparator/ComparableCircleMain.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -537,6 +537,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/nhap.php" />
     <entry file="file://$PROJECT_DIR$/Clean Code And Refactoring/php-cleancode-refactoring-exercise/TennisGameMain.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -546,10 +547,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Clean Code And Refactoring/php-cleancode-refactoring-exercise/TennisGame.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="50" column="22" lean-forward="true" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+        <state relative-caret-position="969">
+          <caret line="57" column="29" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nhap.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../php-management-customer-mvc/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../php-management-customer-mvc/view/list.php">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
